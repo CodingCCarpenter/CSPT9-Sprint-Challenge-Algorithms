@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a) O(n)
+a) O(n) is the runtime complexity because the while loop only runs through an additional n times
 
 
-b)
+b) O(n^2) because we nested loops that both run a number that is proportionate to n
 
 
-c)
+c) We to will round down the quotient of n divided by 2 (n//2)
 
 ## Exercise II
 
