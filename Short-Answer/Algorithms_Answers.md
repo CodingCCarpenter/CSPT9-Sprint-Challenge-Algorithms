@@ -2,10 +2,10 @@
 
 ## Exercise I
 
-a) O(n^3)
+a) O(n) - outer (O(n^3) - inner)
 
 
-b) O(n^2) because we nested loops that both run a number that is proportionate to n
+b) O(log(n)) see Anthony DM
 
 
 c) O(n) We to will round down the quotient of n divided by 2 (n//2)
